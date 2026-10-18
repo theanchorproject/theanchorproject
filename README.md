@@ -3,7 +3,7 @@
 
 - ⚓ I’m currently working on [Anchor](https://github.com/theanchorproject)
 
-- 🌱 I’m currently learning **Python, C++, and machine learning**
+- 🌱 I’m currently learning **C/C++ while un-rusting my python skills**
 
 - 📂 All of my projects can be found here **[coming soon!]**
 - 📫 How to reach me **dev.theanchorproject@gmail.com**
